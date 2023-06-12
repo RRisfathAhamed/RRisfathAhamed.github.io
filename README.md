@@ -19,7 +19,7 @@ Additional Features:
 - **Animated Transitions**: Utilizing subtle animations and transitions to enhance the user experience and add visual appeal.
 
 ## Getting Started
-Repository URL:RRisfathAhamed.github.io
+Repository URL: https://rrisfathahamed.github.io/
 Source URL: https://github.com/RRisfathAhamed/RRisfathAhamed.github.io
 
 Feel free to explore the different sections of the website and get in touch if you have any questions or opportunities to collaborate!
