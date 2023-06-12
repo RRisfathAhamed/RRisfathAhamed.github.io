@@ -19,12 +19,7 @@ Additional Features:
 - **Animated Transitions**: Utilizing subtle animations and transitions to enhance the user experience and add visual appeal.
 
 ## Getting Started
-To view the portfolio website locally or make any modifications, follow these steps:
-
-1. Clone this repository: `git clone [repository URL]`
-2. Open the `index.html` file in your web browser.
+Repository URL:RRisfathAhamed.github.io
+Source URL: https://github.com/RRisfathAhamed/RRisfathAhamed.github.io
 
 Feel free to explore the different sections of the website and get in touch if you have any questions or opportunities to collaborate!
-
-## License
-This project is licensed under the [MIT License](LICENSE).
